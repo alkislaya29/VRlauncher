@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: cfe8484bafbc9814ebb7384f37b3808b
+timeCreated: 1499619533
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box010
+    100002: Ceiling
+    100004: Corob
+    100006: Cuppoard
+    100008: Floor
+    100010: Glass_1
+    100012: Glass_2
+    100014: Glass_3
+    100016: Glass_4
+    100018: Glass_5
+    100020: //RootNode
+    100022: Wall
+    100024: Windows
+    100026: Wood_panel
+    100028: Glass
+    100030: Plane002
+    100032: Window
+    100034: Box
+    100036: Wall_panel
+    100038: Ligh
+    100040: Back
+    100042: Emissive
+    100044: Kitchen
+    400000: Box010
+    400002: Ceiling
+    400004: Corob
+    400006: Cuppoard
+    400008: Floor
+    400010: Glass_1
+    400012: Glass_2
+    400014: Glass_3
+    400016: Glass_4
+    400018: Glass_5
+    400020: //RootNode
+    400022: Wall
+    400024: Windows
+    400026: Wood_panel
+    400028: Glass
+    400030: Plane002
+    400032: Window
+    400034: Box
+    400036: Wall_panel
+    400038: Ligh
+    400040: Back
+    400042: Emissive
+    400044: Kitchen
+    2300000: Box010
+    2300002: Ceiling
+    2300004: Corob
+    2300006: Cuppoard
+    2300008: Floor
+    2300010: Glass_1
+    2300012: Glass_2
+    2300014: Glass_3
+    2300016: Glass_4
+    2300018: Glass_5
+    2300020: Wall
+    2300022: Windows
+    2300024: Wood_panel
+    2300026: //RootNode
+    2300028: Glass
+    2300030: Plane002
+    2300032: Window
+    2300034: Box
+    2300036: Wall_panel
+    2300038: Ligh
+    2300040: Back
+    2300042: Emissive
+    2300044: Kitchen
+    3300000: Box010
+    3300002: Ceiling
+    3300004: Corob
+    3300006: Cuppoard
+    3300008: Floor
+    3300010: Glass_1
+    3300012: Glass_2
+    3300014: Glass_3
+    3300016: Glass_4
+    3300018: Glass_5
+    3300020: Wall
+    3300022: Windows
+    3300024: Wood_panel
+    3300026: //RootNode
+    3300028: Glass
+    3300030: Plane002
+    3300032: Window
+    3300034: Box
+    3300036: Wall_panel
+    3300038: Ligh
+    3300040: Back
+    3300042: Emissive
+    3300044: Kitchen
+    4300000: Wall
+    4300002: Box010
+    4300004: Wood_panel
+    4300006: Cuppoard
+    4300008: Windows
+    4300010: Glass_2
+    4300012: Glass_3
+    4300014: Glass_4
+    4300016: Glass_1
+    4300018: Floor
+    4300020: Corob
+    4300022: Ceiling
+    4300024: Glass_5
+    4300026: Plane002
+    4300028: Window
+    4300030: Glass
+    4300032: Box
+    4300034: Wall_panel
+    4300036: Ligh
+    4300038: Kitchen
+    4300040: Emissive
+    4300042: Back
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

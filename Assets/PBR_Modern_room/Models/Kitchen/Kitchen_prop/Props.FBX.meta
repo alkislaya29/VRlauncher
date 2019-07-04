@@ -1,0 +1,239 @@
+fileFormatVersion: 2
+guid: 4379be0fdf0af864aa3c9c6634de3e72
+timeCreated: 1520973290
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Glass_1
+    100002: Glass_2
+    100004: Kitchen_props
+    100006: //RootNode
+    100008: Props_1
+    100010: Props_10
+    100012: Props_11
+    100014: Props_12
+    100016: Props_13
+    100018: Props_14
+    100020: Props_15
+    100022: Props_16
+    100024: Props_17
+    100026: Props_18
+    100028: Props_19
+    100030: Props_2
+    100032: Props_20
+    100034: Props_21
+    100036: Props_22
+    100038: Props_23
+    100040: Props_24
+    100042: Props_26
+    100044: Props_27
+    100046: Props_28
+    100048: Props_3
+    100050: Props_4
+    100052: Props_5
+    100054: Props_6
+    100056: Props_7
+    100058: Props_8
+    100060: Props_9
+    400000: Glass_1
+    400002: Glass_2
+    400004: Kitchen_props
+    400006: //RootNode
+    400008: Props_1
+    400010: Props_10
+    400012: Props_11
+    400014: Props_12
+    400016: Props_13
+    400018: Props_14
+    400020: Props_15
+    400022: Props_16
+    400024: Props_17
+    400026: Props_18
+    400028: Props_19
+    400030: Props_2
+    400032: Props_20
+    400034: Props_21
+    400036: Props_22
+    400038: Props_23
+    400040: Props_24
+    400042: Props_26
+    400044: Props_27
+    400046: Props_28
+    400048: Props_3
+    400050: Props_4
+    400052: Props_5
+    400054: Props_6
+    400056: Props_7
+    400058: Props_8
+    400060: Props_9
+    2100000: 'Material #31122'
+    2300000: Glass_1
+    2300002: Glass_2
+    2300004: Props_1
+    2300006: Props_10
+    2300008: Props_11
+    2300010: Props_12
+    2300012: Props_13
+    2300014: Props_14
+    2300016: Props_15
+    2300018: Props_16
+    2300020: Props_17
+    2300022: Props_18
+    2300024: Props_19
+    2300026: Props_2
+    2300028: Props_20
+    2300030: Props_21
+    2300032: Props_22
+    2300034: Props_23
+    2300036: Props_24
+    2300038: Props_26
+    2300040: Props_27
+    2300042: Props_28
+    2300044: Props_3
+    2300046: Props_4
+    2300048: Props_5
+    2300050: Props_6
+    2300052: Props_7
+    2300054: Props_8
+    2300056: Props_9
+    3300000: Glass_1
+    3300002: Glass_2
+    3300004: Props_1
+    3300006: Props_10
+    3300008: Props_11
+    3300010: Props_12
+    3300012: Props_13
+    3300014: Props_14
+    3300016: Props_15
+    3300018: Props_16
+    3300020: Props_17
+    3300022: Props_18
+    3300024: Props_19
+    3300026: Props_2
+    3300028: Props_20
+    3300030: Props_21
+    3300032: Props_22
+    3300034: Props_23
+    3300036: Props_24
+    3300038: Props_26
+    3300040: Props_27
+    3300042: Props_28
+    3300044: Props_3
+    3300046: Props_4
+    3300048: Props_5
+    3300050: Props_6
+    3300052: Props_7
+    3300054: Props_8
+    3300056: Props_9
+    4300000: Glass_1
+    4300002: Glass_2
+    4300004: Props_1
+    4300006: Props_2
+    4300008: Props_3
+    4300010: Props_4
+    4300012: Props_5
+    4300014: Props_6
+    4300016: Props_7
+    4300018: Props_8
+    4300020: Props_9
+    4300022: Props_10
+    4300024: Props_11
+    4300026: Props_12
+    4300028: Props_13
+    4300030: Props_14
+    4300032: Props_15
+    4300034: Props_16
+    4300036: Props_17
+    4300038: Props_18
+    4300040: Props_19
+    4300042: Props_20
+    4300044: Props_21
+    4300046: Props_22
+    4300048: Props_23
+    4300050: Props_24
+    4300052: Props_26
+    4300054: Props_27
+    4300056: Props_28
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
